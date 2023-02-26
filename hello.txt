@@ -5,3 +5,7 @@ hello git
 hello git
 hello git
 hello world
+hello spark
+hello hive
+hello hadoop
+
